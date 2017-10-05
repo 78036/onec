@@ -1,1 +1,11 @@
  13:06:26 up 15:07,  1 user,  load average: 0.19, 0.22, 0.31
+Thu Oct  5 13:06:27 EDT 2017
+starting comparing distance computation .....
+matrix dimensions:  100 10
+matrix dimensions:  200 20
+matrix dimensions:  300 30
+matrix dimensions:  400 40
+matrix dimensions:  500 50
+matrix dimensions:  600 60
+matrix dimensions:  700 70
+Thu Oct  5 13:06:58 EDT 2017
